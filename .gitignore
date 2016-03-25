@@ -1,1 +1,4 @@
 images/*.jpg
+csvs/*
+venv/*
+
